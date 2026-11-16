@@ -1,4 +1,20 @@
 {
  "about": "RimRunnerHawaii 2026-27 finals ledger, written by scripts/update_scores.py. Keyed by MaxPreps contest id. homeMp/awayMp are MaxPreps team ids. state: applied | unlisted (one team not in our list; counts for records only) | pending (final between listed teams with no scheduled game yet; awaiting team-page check) | ignored.",
- "finals": {}
+ "finals": {
+  "05822e1a-8600-4e9b-aec6-02029a2007aa": {
+   "awayMp": "4c991a82-f091-4d38-a305-fe621053e2ec",
+   "awayScore": 33,
+   "date": "2026-11-14",
+   "forfeit": false,
+   "gameId": "hi26-x001",
+   "gameType": "non-conference",
+   "homeMp": "d61708d8-de05-441f-a153-3c1a95a1d6d4",
+   "homeScore": 63,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "home"
+  }
+ }
 }
