@@ -15,6 +15,19 @@
    "state": "applied",
    "verified": true,
    "winner": "home"
+  },
+  "c5bd79b9-71e4-4f10-8f95-146fb8de7907": {
+   "awayMp": "04e273ab-e099-4380-9f14-bc03513cd072",
+   "awayScore": 54,
+   "date": "2026-11-17",
+   "forfeit": false,
+   "gameId": "hi26-0075",
+   "homeMp": "c1b9c4f0-96cf-4e51-aece-c9afa513a474",
+   "homeScore": 60,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
   }
  }
 }
